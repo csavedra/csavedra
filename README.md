@@ -1,8 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Carlos Savedra!</strong>
 
-> Olá, meu nome é Carlos Eduardo Savedra, tenho 18 anos e estou estudando Desenvolvimento Full Stack em cursos da RocketSeat, habilidades comportamentais na Coursera e faço projetos acadêmicos regularmente para aprimorar minhas habilidades.
-
-🔭 Até então, o projeto que mais me orgulho foi o da Frambô, que pode ser consultado aqui: https://frambo.com.br
+> Tenho 21 anos e estou estudando Desenvolvimento Full Stack, faço projetos acadêmicos regularmente para aprimorar minhas habilidades.
 
 ----
 
